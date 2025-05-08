@@ -45,3 +45,11 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/ppc-ntu-khpi/identifiers-types-starter)](https://repl.it/github/ppc-ntu-khpi/identifiers-types-starter) [![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+## Результат
+
+### Завдання 14
+
+Перетворити [CIDR](https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%B0%D1%86%D0%B8%D1%8F)-адресу на маску підмережі та діапазон IP-адрес (метод ```Calculate``` має повернути відповідним чином сформований рядок)
+
+### Результат
+![Result](TestResult.png)
